@@ -1,0 +1,137 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-11-09T12:06:07+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: fk-acf-image-selector\n"
+
+#: includes/class-fk-acf-image-selector-field.php:32
+msgid "Image Selector"
+msgstr ""
+
+#: includes/class-fk-acf-image-selector-field.php:34
+msgid "Pick one option from a set of images, shown as thumbnails or round swatches. Returns the value given to the chosen image."
+msgstr ""
+
+#: includes/class-fk-acf-image-selector-field.php:65
+msgid "Choices"
+msgstr ""
+
+#: includes/class-fk-acf-image-selector-field.php:66
+msgid "Add an image for each option. The name is shown to editors. The value is what the field returns, for example a CSS class name, so it can only contain letters, numbers, hyphens and underscores."
+msgstr ""
+
+#: includes/class-fk-acf-image-selector-field.php:77
+msgid "Default Value"
+msgstr ""
+
+#: includes/class-fk-acf-image-selector-field.php:78
+msgid "The value selected when nothing has been chosen yet."
+msgstr ""
+
+#: includes/class-fk-acf-image-selector-field.php:87
+msgid "Return Value"
+msgstr ""
+
+#: includes/class-fk-acf-image-selector-field.php:88
+msgid "What the field returns in your templates."
+msgstr ""
+
+#: includes/class-fk-acf-image-selector-field.php:93
+#: includes/class-fk-acf-image-selector-field.php:295
+msgid "Value"
+msgstr ""
+
+#: includes/class-fk-acf-image-selector-field.php:94
+#: includes/class-fk-acf-image-selector-field.php:294
+msgid "Name"
+msgstr ""
+
+#: includes/class-fk-acf-image-selector-field.php:95
+msgid "Both (Array)"
+msgstr ""
+
+#: includes/class-fk-acf-image-selector-field.php:110
+msgid "Allow None"
+msgstr ""
+
+#: includes/class-fk-acf-image-selector-field.php:111
+msgid "Adds a \"None\" option so the editor can clear their choice."
+msgstr ""
+
+#: includes/class-fk-acf-image-selector-field.php:128
+msgid "Display Style"
+msgstr ""
+
+#: includes/class-fk-acf-image-selector-field.php:129
+msgid "Thumbnails show each image at its own shape. Circles show round swatches, like the colour picker in the block editor."
+msgstr ""
+
+#: includes/class-fk-acf-image-selector-field.php:134
+msgid "Thumbnails"
+msgstr ""
+
+#: includes/class-fk-acf-image-selector-field.php:135
+msgid "Circles"
+msgstr ""
+
+#: includes/class-fk-acf-image-selector-field.php:143
+msgid "Preview Size"
+msgstr ""
+
+#: includes/class-fk-acf-image-selector-field.php:144
+msgid "The image size used for the previews. Pick one that isn't cropped if you want thumbnails to keep their shape."
+msgstr ""
+
+#: includes/class-fk-acf-image-selector-field.php:194
+msgid "No images have been added to this field yet."
+msgstr ""
+
+#: includes/class-fk-acf-image-selector-field.php:204
+msgid "None"
+msgstr ""
+
+#: includes/class-fk-acf-image-selector-field.php:289
+msgid "Add Images"
+msgstr ""
+
+#: includes/class-fk-acf-image-selector-field.php:290
+msgid "Choose Image"
+msgstr ""
+
+#: includes/class-fk-acf-image-selector-field.php:291
+msgid "Use these images"
+msgstr ""
+
+#: includes/class-fk-acf-image-selector-field.php:292
+msgid "Use this image"
+msgstr ""
+
+#: includes/class-fk-acf-image-selector-field.php:293
+msgid "Change image"
+msgstr ""
+
+#: includes/class-fk-acf-image-selector-field.php:296
+msgid "Remove"
+msgstr ""
+
+#: includes/class-fk-acf-image-selector-field.php:297
+msgid "Drag to reorder"
+msgstr ""
+
+#: includes/class-fk-acf-image-selector-field.php:298
+msgid "No images yet. Click \"Add Images\" to choose some from the media library."
+msgstr ""
+
+#. translators: %s: minimum ACF version number.
+#: includes/class-fk-acf-image-selector.php:95
+#, php-format
+msgid "FK ACF Image Selector needs Advanced Custom Fields (or ACF Pro) %s or later to be installed and active."
+msgstr ""
